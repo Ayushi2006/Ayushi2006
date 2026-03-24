@@ -6,7 +6,7 @@
 ### 💫 About Me
 - 🎓 Pursuing Computer Science Engineering with a specialization in **Artificial Intelligence & Machine Learning**
 - 🎓 Also pursuing a BS degree in Data Science from IIT Madras
-- 💻 Built projects using **Python, MySQL & JavaScript**
+- 💻 Built projects using **Python, MySQL, HTML, CSS & JavaScript**
 - 🌱 Currently learning **Data Structures and Algorithms (DSA), React & Open Source workflows**
 - 🎯 Goal: Contribute to Open Source & participate in GSoC
 
