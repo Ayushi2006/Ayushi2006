@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ayushi</h1>
+<h3 align="center">Aspiring Machine Learning Engineer 🚀</h3>
 
-<!--
-**Ayushi2006/Ayushi2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💫 About Me
+- 🎓 Pursuing Computer Science Engineering with a specialization in **Artificial Intelligence & Machine Learning**
+- 🎓 Also pursuing a BS degree in Data Science from IIT Madras
+- 💻 Built projects using **Python, MySQL & JavaScript**
+- 🌱 Currently learning **Data Structures and Algorithms (DSA), React & Open Source workflows**
+- 🎯 Goal: Contribute to Open Source & participate in GSoC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- 💻 Languages: `Python`, `JavaScript`
+- 🌐 Web: `HTML`, `CSS`, `React (learning)`
+- 🛢️ Database: `MySQL`
+- ⚙️ Tools: `Git`, `GitHub`, `VS Code`, `Anaconda` 
+
+---
+
+### 📌 Projects
+
+- 🏋️ **CLI Fitness Tracker**
+  - Built using Python + MySQL
+  - Tracks user fitness data via the command line
+
+- 🌐 **Willow (Journal Website)**
+  - Vintage-inspired digital journaling website using HTML, CSS, and JavaScript
+  - Focused on UI design, aesthetics, and storytelling
+
+- 🎮 **JavaScript Mini Games**
+  - Includes T-Rex Runner and other basic browser games
+  - Built during the early learning phase
+
+---
+
+### 🚀 Current Focus
+- Learning **Data Structures & Problem Solving**
+- Exploring **React development**
+- Preparing for **Open Source contributions**
+
+---
+
+### 🤝 Connect with Me
+- GitHub: [Ayushi2006](https://github.com/Ayushi2006)
+- LinkedIn: [Ayushi R](https://www.linkedin.com/in/ayushi-r/)
