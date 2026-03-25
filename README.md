@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ayushi</h1>
-<h3 align="center">Aspiring Machine Learning Engineer 🚀</h3>
 
 ---
 
