@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushi</h1>
-<h1 align="center">Computer Science Student | Exploring Web Development & Problem Solving</h1>
+<h1>Computer Science Student | Exploring Web Development & Problem Solving</h1>
 
 ---
 
