@@ -8,7 +8,7 @@
 - 🎓 Also pursuing a BS degree in Data Science from IIT Madras
 - 💻 Built projects using **Python, MySQL, HTML, CSS & JavaScript**
 - 🌱 Currently learning **Data Structures and Algorithms (DSA), React & Open Source workflows**
-- 🎯 Goal: Contribute to Open Source & participate in GSoC
+- 🎯 Goal: Contribute to Open Source
 
 ---
 
