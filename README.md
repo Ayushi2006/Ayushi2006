@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushi</h1>
+<p align="center">still figuring things out and learning along the way 🙃</p>
 <h1 align="center">CSE Student | Exploring Web Development & Problem Solving</h1>
 
 ---
@@ -43,5 +44,5 @@
 ---
 
 ### 🤝 Connect with Me
-- GitHub: [Ayushi2006](https://github.com/Ayushi2006)
 - LinkedIn: [Ayushi R](https://www.linkedin.com/in/ayushi-r/)
+- Email: [Ayushi R](ayushi.rajak11@gmail.com)
