@@ -31,8 +31,9 @@
   - Focused on UI design, aesthetics, and storytelling
 
 - 🎮 **JavaScript Mini Games**
-  - Includes T-Rex Runner, A physics-based helicopter game, and other basic browser games
-  - Built during the early learning phase
+  -  T-Rex Runner
+  -  A physics-based helicopter game
+  -  Other basic browser games built during the early learning phase
 
 ---
 
