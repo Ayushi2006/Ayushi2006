@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ayushi</h1>
-<p align="center">Still figuring things out and learning along the way 🙃</p>
 <h1 align="center">CSE Student | Exploring Web Development & Problem Solving</h1>
 
 ---
