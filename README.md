@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushi</h1>
 <h1 align="center">CSE Student | Exploring Web Development & Problem Solving</h1>
 
----
+---  
 
 ### 💫 About Me
 - 🎓 Pursuing Computer Science Engineering with a specialization in **Artificial Intelligence & Machine Learning**
