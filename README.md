@@ -45,4 +45,4 @@
 
 ### 🤝 Connect with Me
 - LinkedIn: [Ayushi R](https://www.linkedin.com/in/ayushi-r/)
-- Email: [Ayushi R](ayushi.rajak11@gmail.com)
+- Email: ayushi.rajak11@gmail.com
