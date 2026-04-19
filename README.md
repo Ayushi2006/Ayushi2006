@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: `Python`, `JavaScript`
+- 💻 Languages: `Python`, `JavaScript`, `SQL`
 - 🌐 Web: `HTML`, `CSS`, `React (learning)`
 - 🛢️ Database: `MySQL`
 - ⚙️ Tools: `Git`, `GitHub`, `VS Code`, `Anaconda` 
