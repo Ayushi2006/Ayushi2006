@@ -2,7 +2,7 @@
 
 # Hi, I'm Ayushi 👋
 
-### CSE Student | AI & ML 
+### CSE Student | AI & ML | Full-Stack Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/Ayushi2006?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Ayushi2006)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushi_R-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushi-r/)
@@ -16,7 +16,7 @@
 
 - 🎓 Pursuing **CSE** with a specialization in **Artificial Intelligence & Machine Learning**
 - 🎓 Also pursuing a **BS in Data Science** from IIT Madras
-- 💻 Built projects using **Python, MySQL, HTML, CSS, JavaScript & the MERN Stack**
+- 💻 Building full-stack apps with **Python, MySQL, HTML, CSS, JavaScript & the MERN Stack**
 - 🌱 Currently learning **DSA, React & Open Source workflows**
 - 🎯 Goal: Contribute to Open Source
 
@@ -61,19 +61,6 @@
 
 ---
 
-#### 🏋️ CLI Fitness Tracker
-> A Python + MySQL command-line app for tracking fitness data
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Ayushi2006/fitness-tracker-cli)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Ayushi2006/fitness-tracker-cli)
-
-- Tracks user fitness activities and progress from the terminal
-- Built entirely with Python and a MySQL backend
-
-[View Repository →](https://github.com/Ayushi2006/fitness-tracker-cli)
-
----
-
 #### 🌐 Willow — Journal Website
 > A vintage-inspired digital journaling and scrapbook web app
 
@@ -88,13 +75,26 @@
 
 ---
 
+#### 🏋️ CLI Fitness Tracker
+> A Python + MySQL command-line app for tracking fitness data
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Ayushi2006/fitness-tracker-cli)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Ayushi2006/fitness-tracker-cli)
+
+- Tracks user fitness activities and progress from the terminal
+- Built entirely with Python and a MySQL backend
+
+[View Repository →](https://github.com/Ayushi2006/fitness-tracker-cli)
+
+---
+
 #### 🎮 JavaScript Mini Games
 > Browser games built during my early learning phase
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/Ayushi2006)
 
-- 🦕 T-Rex Runner — recreation of the Chrome offline game
-- 🚁 Supply Mission — physics-based helicopter drop game
+- 🦕 **T-Rex Runner** — recreation of the Chrome offline game
+- 🚁 **Supply Mission** — physics-based helicopter drop game
 
 [T-Rex →](https://github.com/Ayushi2006/Trex) &nbsp;|&nbsp; [Supply Mission →](https://github.com/Ayushi2006/Supply-mission1)
 
