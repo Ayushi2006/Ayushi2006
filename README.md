@@ -2,7 +2,7 @@
 
 # Hi, I'm Ayushi 👋
 
-### CSE Student | AI & ML | Full-Stack Developer
+### CSE Student
 
 [![GitHub followers](https://img.shields.io/github/followers/Ayushi2006?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Ayushi2006)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushi_R-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushi-r/)
