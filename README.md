@@ -1,13 +1,15 @@
 <div align="center">
 
-# Hi, I'm Ayushi 👋
 
-### CSE (AI/ML) · IIT Madras BS Data Science · Building toward Research & Open Source
+### 💫 About Me
 
-[![GitHub followers](https://img.shields.io/github/followers/Ayushi2006?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Ayushi2006)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushi_R-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushi-r/)
-[![Email](https://img.shields.io/badge/Email-ayushi.rajak11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushi.rajak11@gmail.com)
+- 🎓 Pursuing **CSE** with a specialization in **Artificial Intelligence & Machine Learning**
+- 🎓 Also pursuing a **BS in Data Science** from IIT Madras
+- 💻 Building full-stack apps with **Python, MySQL, HTML, CSS, JavaScript & the MERN Stack**
+- 🌱 Currently learning **DSA, React & Open Source workflows**
+- 🎯 Goal: Contribute to Open Source
 
+---
 </div>
 
 ---
