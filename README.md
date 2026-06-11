@@ -1,22 +1,6 @@
-<div align="center">
-
-
 ### 💫 About Me
 
-- 🎓 Pursuing **CSE** with a specialization in **Artificial Intelligence & Machine Learning**
-- 🎓 Also pursuing a **BS in Data Science** from IIT Madras
-- 💻 Building full-stack apps with **Python, MySQL, HTML, CSS, JavaScript & the MERN Stack**
-- 🌱 Currently learning **DSA, React & Open Source workflows**
-- 🎯 Goal: Contribute to Open Source
-
----
-</div>
-
----
-
-### 💫 About Me
-
-First-year CSE student specializing in **AI/ML**, simultaneously pursuing a **BS in Data Science from IIT Madras**. I build full-stack projects to solidify concepts, implement data structures from scratch to understand what's under the hood, and am working toward research internships and GSoC contributions.
+First-year CSE student specializing in **AI/ML**, simultaneously pursuing a **BS in Data Science from IIT Madras**. I build projects to solidify concepts, implement data structures from scratch to understand what's under the hood.
 
 - 🧠 Currently strengthening: **DSA** (implemented linked lists, trees, graphs, shortest path from scratch)
 
