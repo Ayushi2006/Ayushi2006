@@ -4,7 +4,6 @@
 
 ### CSE Student
 
-[![GitHub followers](https://img.shields.io/github/followers/Ayushi2006?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Ayushi2006)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushi_R-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushi-r/)
 [![Email](https://img.shields.io/badge/Email-ayushi.rajak11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushi.rajak11@gmail.com)
 
