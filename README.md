@@ -14,24 +14,24 @@
 
 ### 💫 About Me
 
--🎓 Pursuing CSE with a specialization in Artificial Intelligence & Machine Learning
--🎓 Also pursuing a BS in Data Science from IIT Madras
--💻 Building full-stack apps with Python, MySQL, HTML, CSS, JavaScript & the MERN Stack
--📚 Implemented core Data Structures, including Linked Lists, Stacks, Queues, Trees, and Graph Representations in Python
--🌱 Currently learning Problem Solving, Algorithms, React & Open Source workflows
--🎯 Goal: Contribute to Open Source
+- 🎓 Pursuing CSE with a specialization in Artificial Intelligence & Machine Learning
+- 🎓 Also pursuing a BS in Data Science from IIT Madras
+- 💻 Building full-stack apps with Python, MySQL, HTML, CSS, JavaScript & the MERN Stack
+- 📚 Implemented core Data Structures, including Linked Lists, Stacks, Queues, Trees, and Graph Representations in Python
+- 🌱 Currently learning Problem Solving, Algorithms, React & Open Source workflows
+- 🎯 Goal: Contribute to Open Source
 
 ---
 
 📚 DSA Journey
--✅ Singly Linked List
--✅ Doubly Linked List
--✅ Stack using Linked List
--✅ Queue using List and Linked List
--✅ Circular Queue
--✅ Binary Tree
--✅ Graphs (Adjacency Matrix & Adjacency List)
--✅ Shortest Path Implementation
+- ✅ Singly Linked List
+- ✅ Doubly Linked List
+- ✅ Stack using Linked List
+- ✅ Queue using List and Linked List
+- ✅ Circular Queue
+- ✅ Binary Tree
+- ✅ Graphs (Adjacency Matrix & Adjacency List)
+- ✅ Shortest Path Implementation
 
 📌 Repository: github.com/Ayushi2006/DSA
 
