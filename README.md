@@ -17,8 +17,6 @@
 First-year CSE student specializing in **AI/ML**, simultaneously pursuing a **BS in Data Science from IIT Madras**. I build full-stack projects to solidify concepts, implement data structures from scratch to understand what's under the hood, and am working toward research internships and GSoC contributions.
 
 - 🧠 Currently strengthening: **DSA** (implemented linked lists, trees, graphs, shortest path from scratch)
-- 🔨 Active project: Adding an **ML component** to an existing full-stack app
-- 📊 Semester 1 SGPA: **9.05**
 
 ---
 
