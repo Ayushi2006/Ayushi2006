@@ -33,7 +33,7 @@
 - ✅ Graphs (Adjacency Matrix & Adjacency List)
 - ✅ Shortest Path Implementation
 
-📌 Repository: github.com/Ayushi2006/DSA
+[View Repository →]( github.com/Ayushi2006/DSA)
 
 ---
 ### 🛠️ Tech Stack
