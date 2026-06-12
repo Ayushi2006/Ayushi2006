@@ -29,7 +29,8 @@
 - ✅ Queue using List and Linked List
 - ✅ Circular Queue
 - ✅ Binary Tree
-- ✅ Graphs (Adjacency Matrix & Adjacency List)
+- ✅ Graphs (Adjacency List)
+- ✅ Adjacency Matrix
 - ✅ Shortest Path Implementation
 
 [View Repository →](https://github.com/Ayushi2006/DSA.git)
