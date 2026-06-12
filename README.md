@@ -71,7 +71,7 @@
 - Fake payment flow (UPI / Card / COD) with order history on profile
 - Glassmorphism-inspired responsive UI with Tailwind CSS
 
-[View Repository →](https://github.com/Ayushi2006/essen-food-delivery)
+[View Repository →](https://github.com/Ayushi2006/essen-food-delivery.git)
 
 ---
 
@@ -85,7 +85,7 @@
 - Focused on UI design, aesthetics, and storytelling
 - Clean user flow with a minimal frontend stack
 
-[View Repository →](https://github.com/Ayushi2006/willow)
+[View Repository →](https://github.com/Ayushi2006/willow.git)
 
 ---
 
@@ -98,7 +98,7 @@
 - Tracks user fitness activities and progress from the terminal
 - Built entirely with Python and a MySQL backend
 
-[View Repository →](https://github.com/Ayushi2006/fitness-tracker-cli)
+[View Repository →](https://github.com/Ayushi2006/fitness-tracker-cli.git)
 
 ---
 
@@ -110,7 +110,7 @@
 - 🦕 **T-Rex Runner** — recreation of the Chrome offline game
 - 🚁 **Supply Mission** — physics-based helicopter drop game
 
-[T-Rex →](https://github.com/Ayushi2006/Trex) &nbsp;|&nbsp; [Supply Mission →](https://github.com/Ayushi2006/Supply-mission1)
+[T-Rex →](https://github.com/Ayushi2006/Trex.git) &nbsp;|&nbsp; [Supply Mission →](https://github.com/Ayushi2006/Supply-mission1.git)
 
 ---
 
