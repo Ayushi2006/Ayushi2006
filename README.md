@@ -71,7 +71,7 @@
 - Fake payment flow (UPI / Card / COD) with order history on profile
 - Glassmorphism-inspired responsive UI with Tailwind CSS
 
-[View Repository →](https://github.com/Ayushi2006/essen-food-delivery.git)
+[View Repository →](https://github.com/Ayushi2006/Essen.git)
 
 ---
 
