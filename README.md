@@ -124,6 +124,6 @@
 
 <div align="center">
 
-*still figuring things out🙃*
+*still figuring things out, one project at a time 🙃*
 
 </div>
