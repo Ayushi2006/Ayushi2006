@@ -10,7 +10,15 @@
 </div>
 
 ---
-ghfdddfvv
+
+### 💫 About Me
+
+- 🎓 Pursuing CSE with a specialization in Artificial Intelligence & Machine Learning
+- 🎓 Also pursuing a BS in Data Science from IIT Madras
+- 💻 Building projects with Python, MySQL, HTML, CSS, JavaScript & the MERN Stack
+- 📚 Implemented core Data Structures, including Linked Lists, Stacks, Queues, Trees, and Graph Representations in Python
+- 🌱 Currently learning Problem Solving, Algorithms, React & Open Source workflows
+- 🎯 Goal: Contribute to Open Source
 
 ---
 
