@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Hi, I'm Ayushi 👋
+.
 
 ### CSE Student
  
@@ -102,7 +102,7 @@
 
 ---
 
-#### 🎮 JavaScript Mini Games
+#### 🎮 JavaScript Mini Games 
 > Browser games built during my early learning phase
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/Ayushi2006)
@@ -126,4 +126,4 @@
 
 *still figuring things out, one project at a time 🙃*
 
-</div> 
+</div>
