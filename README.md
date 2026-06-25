@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-ayushi.rajak11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushi.rajak11@gmail.com)
 
 </div>
-
+  
 --- 
 
 ### 💫 About Me
