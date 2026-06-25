@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Hi, I'm Ayushi 👋
+# Hi, I'm Ayushi 👋 
 
 ### CSE Student 
   
