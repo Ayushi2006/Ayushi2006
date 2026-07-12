@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushi_R-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushi-r/)
 [![Email](https://img.shields.io/badge/Email-ayushi.rajak11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushi.rajak11@gmail.com)
 
-</div>
+</div> 
   
 --- 
 
