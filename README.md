@@ -60,7 +60,7 @@
 
 ### 📌 Projects
 
-#### 🍽️ Essen — Food Delivery App
+####  Essen — Food Delivery App
 > A full-stack food delivery web app built with the MERN Stack
 
 [![MERN](https://img.shields.io/badge/Stack-MERN-61DAFB?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/Ayushi2006/essen-food-delivery)
@@ -75,7 +75,7 @@
 
 ---
 
-#### 🌐 Willow — Journal Website
+####  Willow — Journal Website
 > A vintage-inspired digital journaling and scrapbook web app
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/Ayushi2006/willow)
@@ -89,7 +89,7 @@
 
 ---
 
-#### 🏋️ CLI Fitness Tracker
+####  CLI Fitness Tracker
 > A Python + MySQL command-line app for tracking fitness data
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Ayushi2006/fitness-tracker-cli)
@@ -102,13 +102,13 @@
 
 ---
 
-#### 🎮 JavaScript Mini Games 
+####  JavaScript Mini Games 
 > Browser games built during my early learning phase
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/Ayushi2006)
 
-- 🦕 **T-Rex Runner** — recreation of the Chrome offline game
-- 🚁 **Supply Mission** — physics-based helicopter drop game
+-  **T-Rex Runner** — recreation of the Chrome offline game
+-  **Supply Mission** — physics-based helicopter drop game
 
 [T-Rex →](https://github.com/Ayushi2006/Trex.git) &nbsp;|&nbsp; [Supply Mission →](https://github.com/Ayushi2006/Supply-mission1.git)
 
@@ -116,9 +116,9 @@
 
 ### 🚀 Current Focus
 
-- 🔨 Building full-stack projects with the **MERN Stack**
-- 🧠 Learning **Data Structures & Problem Solving**
-- 🌍 Preparing for **Open Source contributions**
+-  Building full-stack projects with the **MERN Stack**
+-  Learning **Data Structures & Problem Solving**
+-  Preparing for **Open Source contributions**
 
 ---
 
