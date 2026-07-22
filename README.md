@@ -1,7 +1,7 @@
 <div align="center">   
  
 # Hi, I'm Ayushi 👋 
- 
+  
 ### CSE Student  
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushi_R-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushi-r/)
