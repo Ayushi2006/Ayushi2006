@@ -11,7 +11,7 @@
   
 --- 
 
-### 💫 About Me
+###  About Me
  
 -  Pursuing CSE with a specialization in Artificial Intelligence & Machine Learning
 -  Also pursuing a BS in Data Science from IIT Madras
@@ -22,7 +22,7 @@
 
 ---
 
-📚 DSA Journey
+ DSA Journey
 - ✅ Singly Linked List
 - ✅ Doubly Linked List
 - ✅ Stack using Linked List
