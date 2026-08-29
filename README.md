@@ -13,12 +13,12 @@
 
 ### 💫 About Me
  
-- 🎓 Pursuing CSE with a specialization in Artificial Intelligence & Machine Learning
-- 🎓 Also pursuing a BS in Data Science from IIT Madras
-- 💻 Building projects with Python, MySQL, HTML, CSS, JavaScript & the MERN Stack
-- 📚 Implemented core Data Structures, including Linked Lists, Stacks, Queues, Trees, and Graph Representations in Python
-- 🌱 Currently learning Problem Solving, Algorithms, React & Open Source workflows
-- 🎯 Goal: Contribute to Open Source
+-  Pursuing CSE with a specialization in Artificial Intelligence & Machine Learning
+-  Also pursuing a BS in Data Science from IIT Madras
+-  Building projects with Python, MySQL, HTML, CSS, JavaScript & the MERN Stack
+-  Implemented core Data Structures, including Linked Lists, Stacks, Queues, Trees, and Graph Representations in Python
+-  Currently learning Problem Solving, Algorithms, React & Open Source workflows
+-  Goal: Contribute to Open Source
 
 ---
 
@@ -36,7 +36,7 @@
 [View Repository →](https://github.com/Ayushi2006/DSA.git)
 
 ---
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 📌 Projects
+###  Projects
 
 ####  Essen — Food Delivery App
 > A full-stack food delivery web app built with the MERN Stack
@@ -114,7 +114,7 @@
 
 ---
 
-### 🚀 Current Focus
+###  Current Focus
 
 -  Building full-stack projects with the **MERN Stack**
 -  Learning **Data Structures & Problem Solving**
