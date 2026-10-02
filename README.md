@@ -124,7 +124,7 @@
 
 <div align="center">
 
-[![Ayushi]](https://portfolio-eosin-two-26m75td5kh.vercel.app/)
+[![Ayushi](https://img.shields.io/badge/Portfolio-Ayushi-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://portfolio-eosin-two-26m75td5kh.vercel.app/)
 
 *still figuring things out, one project at a time 🙃*
 
