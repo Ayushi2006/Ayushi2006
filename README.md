@@ -124,7 +124,7 @@
 
 <div align="center">
 
-[Ayushi](https://portfolio-eosin-two-26m75td5kh.vercel.app/)
+[![Ayushi]](https://portfolio-eosin-two-26m75td5kh.vercel.app/)
 
 *still figuring things out, one project at a time 🙃*
 
