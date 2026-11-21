@@ -2,7 +2,7 @@
      
 # <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=gradient&amp;text=Hey,%20I%27m%20Ayushi!&amp;section=header&amp;textBg=false&amp;fontSize=50&amp;fontAlignY=40&amp;animation=fadeIn&amp;desc%20|%20%20|%20%20|%20" alt="Hey, I'm Ayushi!" />
-</p>       
+</p>     
       
 ### CSE Student          
   
